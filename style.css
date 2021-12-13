@@ -1,0 +1,46 @@
+/* inside style.css */
+
+/****Font Settings****/
+
+@import url('https://fonts.googleapis.com/css2?family=Petemoss&family=Road+Rage&display=swap');
+
+
+body{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-family: 'Road Rage', sans-serif;
+    background-color: rgb(236, 229, 219);
+    opacity: 1;
+}
+
+.highlight {
+    background-color:blueviolet;
+}
+.error {
+    background-color: crimson;
+}
+h1 {
+    color:rgb(131, 66, 5);
+    text-align: center;
+
+}
+
+ /****Pictures Settings****/
+
+#headerpicture{
+    padding: 0;
+    margin: 0;
+    background: url(image/annie-spratt-GWCvnsMtiBg-unsplash.jpg) no-repeat fixed 50% 50%;
+    background-size: cover;
+    height: 500px;
+
+}
+#footerpicture{
+    padding: 0px;
+    margin-top: 50px;
+    background: url(image/mark-higham-theartshot360-9G5h6alZeDI-unsplash.jpg) no-repeat fixed 50% 50%;
+    background-size: cover;
+    height: 500px;
+
+}
