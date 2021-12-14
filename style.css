@@ -10,12 +10,12 @@ body{
     padding: 0;
     margin: 0;
     font-family: 'Road Rage', sans-serif;
-    background-color: rgb(236, 229, 219);
+    background-color: rgb(236, 218, 193);
     opacity: 1;
 }
 
 .highlight {
-    background-color:blueviolet;
+    background-color:rgb(219, 171, 39);
 }
 
 .error {
