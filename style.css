@@ -23,14 +23,14 @@ body{
 }
 
 h1 {
-    padding: 0.5em;
+    padding: 0.3em;
     margin: 0em;
     color:rgb(131, 66, 5);
     text-align: center;
     font-size: 4em;
 }
 p {
-    padding: 0.2em;
+    padding: 0.05em;
     margin: 0em;
     color:rgb(63, 32, 3);
     text-align: center;
@@ -46,7 +46,7 @@ p {
     margin: 0;
     background: url(image/annie-spratt-GWCvnsMtiBg-unsplash.jpg) no-repeat fixed 50% 50%;
     background-size: cover;
-    height: 1000px;
+    height: 650px;
 }
 
 #footerpicture{
@@ -54,5 +54,5 @@ p {
     margin-top: 50px;
     background: url(image/mark-higham-theartshot360-9G5h6alZeDI-unsplash.jpg) no-repeat fixed 50% 50%;
     background-size: cover;
-    height: 1500px;
+    height: 650px;
 }
